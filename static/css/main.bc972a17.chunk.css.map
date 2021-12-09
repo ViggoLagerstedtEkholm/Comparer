@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,MACI,gBAAiB,CACjB,WAAY,CACZ,wBACJ,CAEA,WACI,wBACJ","file":"main.bc972a17.chunk.css","sourcesContent":["#root{\r\n    min-height: 100vh;\r\n    height: auto;\r\n    background-color: #0c1d2a;\r\n}\r\n\r\n.highlight{\r\n    background-color: #ffbd66;\r\n}\r\n"]}
